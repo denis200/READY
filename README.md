@@ -8,5 +8,4 @@
   pip install Pillow
   pip intall winpip
   pipwin install pyaudio
-  
- Также прикрепляю .exe файл, запуск можно произвести через него.
+
